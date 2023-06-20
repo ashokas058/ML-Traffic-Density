@@ -9,5 +9,5 @@ For runnning Multicam mode and the video source staticly given for dynamic refer
 
 <br>
 For Running Single -added count , date on Box model <br>
-**python singleCam.py**
+python SingleCam.py 
 
